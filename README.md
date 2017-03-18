@@ -1,2 +1,2 @@
 # Site Favicon
-Adds sites favicon into urlbar and icons for blank tab favicons.
+Adds sites favicon into urlbar and select custom icons for tabs without favicons.
